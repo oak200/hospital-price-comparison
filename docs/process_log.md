@@ -82,3 +82,8 @@
 - Compiled all 12 answers into a shareable report: [Hospital Price Comparison: St. Luke's vs. LVHN](https://claude.ai/artifact/5gMomEK6csXvz7zVFqzvAs).
 - Each section leads with the bottom line, then gives the supporting counts, dollar and percent differences, and a breakdown by type of care.
 - A final review caught three fixes: an empty cell turned out to be a real finding (LVHN's Valley Preferred plan pays 207% of LVHN's cash price), two rounding slips, and two empty cash columns that were removed.
+
+### Step 13: Publishing to GitHub
+- Published the project as a public repository: [oak200/hospital-price-comparison](https://github.com/oak200/hospital-price-comparison).
+- Added a README, a download script for the data, and `run_all.py`, which runs the whole pipeline in order. A fresh run from an empty database reproduced every result.
+- Kept the large hospital files (190 MB) out of the repo. Anyone can re-download them with `scripts/download_data.py`.
