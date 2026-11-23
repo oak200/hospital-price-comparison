@@ -1,0 +1,63 @@
+hospital,rank,carrier,plan,plan_type,procedures_priced,pct_of_compared,price_index,pct_of_cash,cheapest_on
+St. Luke's,1,Highmark Wholecare,Medicaid,Medicaid,2145,54.0,76.0,10.0,1016
+St. Luke's,2,Independence Blue Cross,Medicare Advantage,Medicare Advantage,3941,98.0,95.0,10.0,1396
+St. Luke's,3,Horizon BCBS NJ,Medicare,Medicare Advantage,3706,93.0,95.0,9.0,1287
+St. Luke's,4,Highmark,Medicare Advantage,Medicare Advantage,3705,93.0,95.0,9.0,1287
+St. Luke's,5,Highmark,Freedom Blue Medicare Advantage,Medicare Advantage,3705,93.0,96.0,9.0,0
+St. Luke's,6,Aetna,Medicare,Medicare Advantage,3963,99.0,97.0,10.0,122
+St. Luke's,7,Geisinger,Medicare,Medicare Advantage,3705,93.0,97.0,9.0,0
+St. Luke's,8,Humana,Medicare,Medicare Advantage,3705,93.0,99.0,10.0,0
+St. Luke's,9,UPMC Health Plan,Medicare Advantage,Medicare Advantage,3705,93.0,100.0,10.0,0
+St. Luke's,10,UnitedHealthcare,Medicare Advantage,Medicare Advantage,3705,93.0,103.0,10.0,0
+St. Luke's,11,Independence Blue Cross,HMO,Commercial,3873,97.0,129.0,25.0,608
+St. Luke's,12,Highmark,CHIP,CHIP,3685,92.0,147.0,14.0,710
+St. Luke's,13,Independence Blue Cross,PPO,Commercial,3845,96.0,148.0,32.0,5
+St. Luke's,14,Cigna,Commercial,Commercial,2834,71.0,154.0,33.0,5
+St. Luke's,15,Aetna,Medical Rental,Rental network,2845,71.0,169.0,41.0,2
+St. Luke's,16,Aetna,Commercial,Commercial,2843,71.0,169.0,42.0,1
+St. Luke's,17,Oscar,Commercial,Commercial,2075,52.0,202.0,31.0,91
+St. Luke's,18,UPMC Health Plan,Commercial,Commercial,2065,52.0,212.0,33.0,0
+St. Luke's,19,UnitedHealthcare,Commercial,Commercial,2090,52.0,213.0,35.0,0
+St. Luke's,20,Geisinger,Commercial,Commercial,2061,51.0,216.0,34.0,0
+St. Luke's,21,Capital Blue Cross,Commercial,Commercial,3872,97.0,236.0,47.0,50
+St. Luke's,22,Highmark,Commercial,Commercial,3684,92.0,306.0,30.0,0
+LVHN,1,UnitedHealthcare,MANAGED MEDICAID,Medicaid,2302,58.0,74.0,27.0,1759
+LVHN,2,AmeriHealth Caritas,MANAGED MEDICAID,Medicaid,2102,53.0,74.0,34.0,235
+LVHN,3,Cigna,HEALTHSPRING,Medicare Advantage,2547,64.0,89.0,29.0,222
+LVHN,4,Jefferson Health Plans,ALL PRODUCTS,Commercial,2590,65.0,91.0,34.0,796
+LVHN,5,Optum,MEDICARE ADVANTAGE,Medicare Advantage,2552,64.0,92.0,34.0,217
+LVHN,5,Independence Blue Cross,MEDICARE ADVANTAGE,Medicare Advantage,2552,64.0,92.0,34.0,217
+LVHN,5,Capital Blue Cross,MEDICARE ADVANTAGE,Medicare Advantage,2545,64.0,92.0,34.0,223
+LVHN,8,PA Health & Wellness,MANAGED MEDICAID,Medicaid,2014,50.0,93.0,29.0,29
+LVHN,8,Jefferson Health Plans,MANAGED MEDICAID,Medicaid,2015,50.0,93.0,29.0,29
+LVHN,10,Highmark,MEDICARE ADVANTAGE,Medicare Advantage,2552,64.0,94.0,35.0,0
+LVHN,11,Aetna,MANAGED MEDICAID,Medicaid,2036,51.0,94.0,31.0,3
+LVHN,12,Geisinger,MEDICARE ADVANTAGE,Medicare Advantage,2549,64.0,94.0,35.0,2
+LVHN,13,PA Health & Wellness,MEDICARE ADVANTAGE,Medicare Advantage,2543,64.0,96.0,37.0,0
+LVHN,14,Aetna,MEDICARE ADVANTAGE,Medicare Advantage,2552,64.0,96.0,36.0,0
+LVHN,14,Devoted Health,MEDICARE ADVANTAGE,Medicare Advantage,2552,64.0,96.0,36.0,0
+LVHN,14,Humana,MEDICARE ADVANTAGE,Medicare Advantage,2552,64.0,96.0,36.0,0
+LVHN,14,AmeriHealth,MEDICARE ADVANTAGE,Medicare Advantage,2552,64.0,96.0,36.0,0
+LVHN,14,Jefferson Health Plans,MEDICARE ADVANTAGE,Medicare Advantage,2552,64.0,96.0,36.0,0
+LVHN,19,UPMC Health Plan,MEDICARE ADVANTAGE,Medicare Advantage,2552,64.0,97.0,36.0,0
+LVHN,20,Highmark Wholecare,MANAGED MEDICAID,Medicaid,2027,51.0,98.0,31.0,12
+LVHN,21,Keystone First,MANAGED MEDICAID,Medicaid,2028,51.0,99.0,31.0,5
+LVHN,22,Emblem,MEDICARE ADVANTAGE,Medicare Advantage,2552,64.0,99.0,37.0,0
+LVHN,23,Capital Blue Cross,CHIP,CHIP,2637,66.0,105.0,73.0,720
+LVHN,24,UPMC Health Plan,MANAGED MEDICAID,Medicaid,2078,52.0,110.0,36.0,8
+LVHN,25,Jefferson Employees,ALL PRODUCTS,Commercial,2552,64.0,115.0,43.0,0
+LVHN,26,UPMC Health Plan,SNP,Medicare Advantage,2552,64.0,117.0,43.0,0
+LVHN,27,Highmark,CHIP,CHIP,2588,65.0,176.0,67.0,2
+LVHN,28,Capital Blue Cross,ALL PRODUCTS,Commercial,2630,66.0,179.0,118.0,3
+LVHN,29,Highmark,ACA NARROW NETWORK,Marketplace (ACA),2588,65.0,222.0,84.0,0
+LVHN,30,Geisinger,MARKETPLACE,Marketplace (ACA),2554,64.0,224.0,83.0,2
+LVHN,31,Meshoppen Stone,ALL PRODUCTS,Commercial,2545,64.0,238.0,95.0,2
+LVHN,32,Ambetter,ALL PRODUCTS,Marketplace (ACA),2552,64.0,258.0,103.0,0
+LVHN,33,Highmark,TIERED PRODUCTS (COALITION),Commercial,2588,65.0,276.0,104.0,0
+LVHN,34,Highmark,ALL PRODUCTS,Commercial,2588,65.0,307.0,116.0,0
+LVHN,35,Emblem,ALL PRODUCTS,Commercial,2582,65.0,380.0,152.0,5
+LVHN,36,Geisinger,ALL PRODUCTS,Commercial,2554,64.0,390.0,156.0,0
+LVHN,37,Aetna,PEBTF,Commercial,2585,65.0,391.0,157.0,0
+LVHN,38,UPMC Health Plan,ALL PRODUCTS,Commercial,2588,65.0,414.0,166.0,0
+LVHN,39,Aetna,ALL PRODUCTS,Commercial,2585,65.0,496.0,198.0,0
+LVHN,40,Valley Preferred,ALL PRODUCTS,Commercial,2529,63.0,520.0,207.0,174

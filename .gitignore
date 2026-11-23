@@ -1,0 +1,20 @@
+# Hospital price files (54-135 MB each; download them, see README)
+data/
+
+# Working database rebuilt by the scripts
+work/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.claude/
+
+# Original project brief (kept local)
+downloaded-file-*

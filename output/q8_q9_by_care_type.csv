@@ -1,0 +1,32 @@
+hospital,grp,best_plan,procedures_compared,cash_cheaper,plan_cheaper,ties,typical_cash_minus_plan,typical_cash_vs_plan_pct,cash_total,plan_total,better_overall,pct_lower,better_on
+St. Luke's,Lab & pathology,Highmark Wholecare Medicaid,950,0,950,0,260.0,1013.0,959803.0,132306.0,Negotiated rate,86.0,950
+St. Luke's,Imaging,Highmark Wholecare Medicaid,392,0,392,0,2132.0,1562.0,1386518.0,116370.0,Negotiated rate,92.0,392
+St. Luke's,Other medical,Highmark Wholecare Medicaid,137,0,137,0,517.0,388.0,1147613.0,233403.0,Negotiated rate,80.0,137
+St. Luke's,Heart & vascular,Highmark Wholecare Medicaid,130,0,130,0,3803.0,388.0,1265521.0,242157.0,Negotiated rate,81.0,130
+St. Luke's,Other surgery,Highmark Wholecare Medicaid,80,0,80,0,1338.0,896.0,236128.0,33363.0,Negotiated rate,86.0,80
+St. Luke's,Neurology,Highmark Wholecare Medicaid,70,0,70,0,947.0,863.0,176017.0,14725.0,Negotiated rate,92.0,70
+St. Luke's,Cancer care,Highmark Wholecare Medicaid,36,0,36,0,3038.0,1911.0,244090.0,15821.0,Negotiated rate,94.0,36
+St. Luke's,Digestive (GI),Highmark Wholecare Medicaid,33,0,33,0,1563.0,738.0,115796.0,14969.0,Negotiated rate,87.0,33
+St. Luke's,Urology & kidney,Highmark Wholecare Medicaid,28,0,28,0,1818.0,388.0,118990.0,23611.0,Negotiated rate,80.0,28
+St. Luke's,Orthopedics,Highmark Wholecare Medicaid,28,0,28,0,1165.0,388.0,72142.0,12955.0,Negotiated rate,82.0,28
+St. Luke's,Respiratory,Highmark Wholecare Medicaid,25,0,25,0,1376.0,1488.0,62458.0,9922.0,Negotiated rate,84.0,25
+St. Luke's,Clinic visits,Highmark Wholecare Medicaid,9,0,9,0,379.0,634.0,4494.0,613.0,Negotiated rate,86.0,9
+St. Luke's,Behavioral health,Highmark Wholecare Medicaid,9,0,9,0,377.0,388.0,3949.0,657.0,Negotiated rate,83.0,9
+St. Luke's,Emergency,Highmark Wholecare Medicaid,9,0,9,0,433.0,388.0,11920.0,1297.0,Negotiated rate,89.0,9
+St. Luke's,Therapy & rehab,Highmark Wholecare Medicaid,8,0,8,0,450.0,388.0,4377.0,896.0,Negotiated rate,80.0,8
+St. Luke's,Maternity & newborn,Highmark Wholecare Medicaid,5,0,5,0,3940.0,388.0,23956.0,3388.0,Negotiated rate,86.0,5
+St. Luke's,Women's health,Highmark Wholecare Medicaid,4,0,4,0,1309.0,388.0,6979.0,1225.0,Negotiated rate,82.0,4
+LVHN,Other surgery,UnitedHealthcare MANAGED MEDICAID,109,35,74,0,276.0,47.0,222969.0,94161.0,Negotiated rate,58.0,74
+LVHN,Orthopedics,UnitedHealthcare MANAGED MEDICAID,102,8,94,0,3774.0,447.0,516028.0,87426.0,Negotiated rate,83.0,94
+LVHN,Digestive (GI),UnitedHealthcare MANAGED MEDICAID,40,1,39,0,4857.0,575.0,245105.0,36014.0,Negotiated rate,85.0,39
+LVHN,Lab & pathology,UnitedHealthcare MANAGED MEDICAID,34,0,34,0,47.0,349.0,4499.0,1011.0,Negotiated rate,78.0,34
+LVHN,Neurology,UnitedHealthcare MANAGED MEDICAID,32,3,29,0,781.0,107.0,67433.0,25008.0,Negotiated rate,63.0,29
+LVHN,Urology & kidney,UnitedHealthcare MANAGED MEDICAID,29,1,28,0,3114.0,498.0,125486.0,20327.0,Negotiated rate,84.0,28
+LVHN,Imaging,UnitedHealthcare MANAGED MEDICAID,27,0,27,0,766.0,725.0,51948.0,10846.0,Negotiated rate,79.0,27
+LVHN,Heart & vascular,UnitedHealthcare MANAGED MEDICAID,20,1,19,0,2774.0,447.0,108404.0,17549.0,Negotiated rate,84.0,19
+LVHN,Women's health,UnitedHealthcare MANAGED MEDICAID,16,3,13,0,852.0,571.0,43180.0,7723.0,Negotiated rate,82.0,13
+LVHN,Respiratory,UnitedHealthcare MANAGED MEDICAID,13,1,12,0,4553.0,485.0,75163.0,11856.0,Negotiated rate,84.0,12
+LVHN,Other medical,UnitedHealthcare MANAGED MEDICAID,11,1,10,0,337.0,260.0,143633.0,41237.0,Negotiated rate,71.0,10
+LVHN,Clinic visits,UnitedHealthcare MANAGED MEDICAID,9,0,9,0,106.0,113.0,1675.0,647.0,Negotiated rate,61.0,9
+LVHN,Maternity & newborn,UnitedHealthcare MANAGED MEDICAID,4,3,1,0,-236.0,-25.0,2915.0,3366.0,Cash,13.0,3
+LVHN,Emergency,UnitedHealthcare MANAGED MEDICAID,4,0,4,0,1133.0,1198.0,5018.0,398.0,Negotiated rate,92.0,4

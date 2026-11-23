@@ -1,0 +1,3 @@
+hospital,grp,best_plan,procedures_compared,cash_cheaper,plan_cheaper,ties,typical_cash_minus_plan,typical_cash_vs_plan_pct,cash_total,plan_total,better_overall,pct_lower,better_on
+St. Luke's,All procedures,Highmark Wholecare Medicaid,1953,0,1953,0,667.0,914.0,5840748.0,857678.0,Negotiated rate,85.0,1953
+LVHN,All procedures,UnitedHealthcare MANAGED MEDICAID,450,57,393,0,1564.0,275.0,1613453.0,357568.0,Negotiated rate,78.0,393

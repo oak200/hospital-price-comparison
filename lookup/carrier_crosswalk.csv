@@ -1,0 +1,44 @@
+hosp,payer_name,carrier,note
+SLB,Aetna,Aetna,
+SLB,AmeriHealth Caritas,AmeriHealth Caritas,
+SLB,Capital Blue Cross,Capital Blue Cross,
+SLB,Cigna,Cigna,
+SLB,Geisinger,Geisinger,
+SLB,Highmark,Highmark,
+SLB,Highmark Wholecare,Highmark Wholecare,
+SLB,Horizon BCBS NJ,Horizon BCBS NJ,
+SLB,Humana,Humana,
+SLB,Independence Blue Cross,Independence Blue Cross,
+SLB,Jefferson Health Plan,Jefferson Health Plans,Formerly Health Partners Plans
+SLB,Keystone First,Keystone First,
+SLB,Oscar,Oscar,
+SLB,UPMC Health Plan,UPMC Health Plan,
+SLB,United Healthcare,UnitedHealthcare,
+LVH,AETNA,Aetna,
+LVH,AMBETTER,Ambetter,Centene marketplace plan
+LVH,AMERIHEALTH CARITAS,AmeriHealth Caritas,
+LVH,AMERIHEALTH,AmeriHealth,Independence Blue Cross affiliate; listed separately
+LVH,BLUE DISTINCTION,Blue Distinction (BCBS),BCBS transplant network
+LVH,CAPITAL BLUE CROSS,Capital Blue Cross,
+LVH,CIGNA,Cigna,
+LVH,COMMUNITY CARE BEHAVIORAL HEALTH,Community Care Behavioral Health,
+LVH,DEVOTED HEALTH,Devoted Health,
+LVH,EMBLEM,Emblem,
+LVH,GATEWAY,Highmark Wholecare,Gateway Health was renamed Highmark Wholecare
+LVH,GEISINGER,Geisinger,
+LVH,HIGHMARK BLUE SHIELD,Highmark,
+LVH,HIGHMARK WHOLECARE/GATEWAY,Highmark Wholecare,
+LVH,HUMANA,Humana,
+LVH,IBC,Independence Blue Cross,
+LVH,JEFFERSON EMPLOYEES,Jefferson Employees,Employer plan
+LVH,JEFFERSON HEALTH PARTNERS,Jefferson Health Plans,Formerly Health Partners Plans
+LVH,KEYSTONE FIRST,Keystone First,
+LVH,MAGELLAN HEALTHY CHOICES,Magellan,
+LVH,MESHOPPEN STONE,Meshoppen Stone,Employer plan
+LVH,OPTUM HEALTH,Optum,
+LVH,PA HEALTH & WELLNESS (ALLWELL),PA Health & Wellness,
+LVH,PA HEALTH & WELLNESS,PA Health & Wellness,
+LVH,POPULYTICS,Populytics,Third-party administrator
+LVH,UNITED HEALTHCARE,UnitedHealthcare,
+LVH,UPMC,UPMC Health Plan,
+LVH,VALLEY PREFERRED,Valley Preferred,LVHN-affiliated network

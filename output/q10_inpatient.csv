@@ -1,0 +1,11 @@
+code,procedure,care_type,slb_best_plan,lvh_best_plan,slb_cash,lvh_cash,lowest
+807,Vaginal delivery,Maternity & newborn,6953.0,6440.0,,,LVHN best plan
+788,C-section,Maternity & newborn,9552.0,8937.0,,,LVHN best plan
+795,Normal newborn,Maternity & newborn,2621.0,2279.0,,,LVHN best plan
+470,Hip or knee replacement,Orthopedics,18410.0,,,,Only one price published
+871,Sepsis (with major complications),Other medical,18534.0,17567.0,,,LVHN best plan
+291,Heart failure (with major complications),Heart & vascular,12519.0,11788.0,,,LVHN best plan
+194,Pneumonia,Respiratory,8156.0,7596.0,,,LVHN best plan
+690,Kidney / urinary tract infection,Urology & kidney,8189.0,7627.0,,,LVHN best plan
+392,Digestive disorders,Digestive (GI),7916.0,7365.0,,,LVHN best plan
+603,Cellulitis (skin infection),Other medical,8749.0,8166.0,,,LVHN best plan

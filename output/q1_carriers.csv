@@ -1,0 +1,85 @@
+hospital,carrier,plan,plan_type,availability,procedures_priced,of_4003_compared
+St. Luke's,Aetna,Commercial,Commercial,Both,4579,2843
+St. Luke's,Aetna,Medical Rental,Rental network,Both,4579,2845
+St. Luke's,Aetna,Medicare,Medicare Advantage,Both,6028,3963
+St. Luke's,AmeriHealth Caritas,Medicaid,Medicaid,Both,2677,1520
+St. Luke's,Capital Blue Cross,Commercial,Commercial,Both,5962,3872
+St. Luke's,Cigna,Commercial,Commercial,Both,4574,2834
+St. Luke's,Geisinger,Commercial,Commercial,Both,3804,2061
+St. Luke's,Geisinger,Medicaid/CHIP,Medicaid,Both,2586,1511
+St. Luke's,Geisinger,Medicare,Medicare Advantage,Both,4774,3705
+St. Luke's,Highmark,CHIP,CHIP,Both,4760,3685
+St. Luke's,Highmark,Commercial,Commercial,Both,4811,3684
+St. Luke's,Highmark,Freedom Blue Medicare Advantage,Medicare Advantage,Both,4774,3705
+St. Luke's,Highmark,Medicare Advantage,Medicare Advantage,Both,4774,3705
+St. Luke's,Highmark Wholecare,Medicaid,Medicaid,Both,4272,2145
+St. Luke's,Horizon BCBS NJ,Medicare,Medicare Advantage,St. Luke's only,4804,3706
+St. Luke's,Humana,Medicare,Medicare Advantage,Both,4774,3705
+St. Luke's,Independence Blue Cross,HMO,Commercial,Both,5954,3873
+St. Luke's,Independence Blue Cross,Medicare Advantage,Medicare Advantage,Both,5909,3941
+St. Luke's,Independence Blue Cross,PPO,Commercial,Both,5954,3845
+St. Luke's,Jefferson Health Plans,CHIP/Medicaid,Medicaid,Both,2587,1614
+St. Luke's,Keystone First,Medicaid,Medicaid,Both,2587,1474
+St. Luke's,Oscar,Commercial,Commercial,St. Luke's only,3804,2075
+St. Luke's,UPMC Health Plan,Commercial,Commercial,Both,3804,2065
+St. Luke's,UPMC Health Plan,Medicaid,Medicaid,Both,3036,1522
+St. Luke's,UPMC Health Plan,Medicare Advantage,Medicare Advantage,Both,4774,3705
+St. Luke's,UnitedHealthcare,Commercial,Commercial,Both,3759,2090
+St. Luke's,UnitedHealthcare,Medicare Advantage,Medicare Advantage,Both,4774,3705
+LVHN,Aetna,ALL PRODUCTS,Commercial,Both,10082,2585
+LVHN,Aetna,MANAGED MEDICAID,Medicaid,Both,5324,2036
+LVHN,Aetna,MEDICARE ADVANTAGE,Medicare Advantage,Both,10043,2552
+LVHN,Aetna,PEBTF,Commercial,Both,10082,2585
+LVHN,Ambetter,ALL PRODUCTS,Marketplace (ACA),LVHN only,10043,2552
+LVHN,AmeriHealth,MEDICARE ADVANTAGE,Medicare Advantage,LVHN only,10043,2552
+LVHN,AmeriHealth Caritas,MANAGED MEDICAID,Medicaid,Both,6831,2102
+LVHN,Blue Distinction (BCBS),TRANSPLANTS,Transplant network,LVHN only,6,6
+LVHN,Capital Blue Cross,ALL PRODUCTS,Commercial,Both,4635,2630
+LVHN,Capital Blue Cross,CHIP,CHIP,Both,4633,2637
+LVHN,Capital Blue Cross,MEDICARE ADVANTAGE,Medicare Advantage,Both,10038,2545
+LVHN,Cigna,HEALTHSPRING,Medicare Advantage,Both,10038,2547
+LVHN,Cigna,HMO,Commercial,Both,1772,667
+LVHN,Cigna,PPO,Commercial,Both,1772,665
+LVHN,Community Care Behavioral Health,MANAGED MEDICAID,Medicaid,LVHN only,0,0
+LVHN,Devoted Health,MEDICARE ADVANTAGE,Medicare Advantage,LVHN only,10043,2552
+LVHN,Emblem,ALL PRODUCTS,Commercial,LVHN only,10074,2582
+LVHN,Emblem,MEDICARE ADVANTAGE,Medicare Advantage,LVHN only,10043,2552
+LVHN,Geisinger,ALL PRODUCTS,Commercial,Both,10053,2554
+LVHN,Geisinger,MANAGED MEDICAID,Medicaid,Both,5309,1996
+LVHN,Geisinger,MARKETPLACE,Marketplace (ACA),Both,10053,2554
+LVHN,Geisinger,MEDICARE ADVANTAGE,Medicare Advantage,Both,10048,2549
+LVHN,Highmark,ACA NARROW NETWORK,Marketplace (ACA),Both,10079,2588
+LVHN,Highmark,ALL PRODUCTS,Commercial,Both,10079,2588
+LVHN,Highmark,CHIP,CHIP,Both,10079,2588
+LVHN,Highmark,MEDICARE ADVANTAGE,Medicare Advantage,Both,10043,2552
+LVHN,Highmark,TIERED PRODUCTS (COALITION),Commercial,Both,10079,2588
+LVHN,Highmark Wholecare,MANAGED MEDICAID,Medicaid,Both,5300,2027
+LVHN,Highmark Wholecare,MEDICARE ADVANTAGE,Medicare Advantage,Both,10117,1082
+LVHN,Humana,MEDICARE ADVANTAGE,Medicare Advantage,Both,10043,2552
+LVHN,Independence Blue Cross,HMO,Commercial,Both,5220,1601
+LVHN,Independence Blue Cross,MEDICARE ADVANTAGE,Medicare Advantage,Both,10043,2552
+LVHN,Independence Blue Cross,PPO,Commercial,Both,5220,1579
+LVHN,Jefferson Employees,ALL PRODUCTS,Commercial,LVHN only,10043,2552
+LVHN,Jefferson Health Plans,ALL PRODUCTS,Commercial,Both,10173,2590
+LVHN,Jefferson Health Plans,MANAGED MEDICAID,Medicaid,Both,5310,2015
+LVHN,Jefferson Health Plans,MEDICARE ADVANTAGE,Medicare Advantage,Both,10043,2552
+LVHN,Keystone First,MANAGED MEDICAID,Medicaid,Both,5374,2028
+LVHN,Magellan,BUCKS COUNTY,Medicaid,LVHN only,0,0
+LVHN,Magellan,CAMBRIA COUNTY,Medicaid,LVHN only,0,0
+LVHN,Magellan,LEHIGH COUNTY,Medicaid,LVHN only,24,15
+LVHN,Magellan,MONTGOMERY COUNTY,Medicaid,LVHN only,0,0
+LVHN,Magellan,NORTHAMPTON COUNTY,Medicaid,LVHN only,24,15
+LVHN,Meshoppen Stone,ALL PRODUCTS,Commercial,LVHN only,10036,2545
+LVHN,Optum,ALL PRODUCTS,Commercial,LVHN only,9315,1818
+LVHN,Optum,MEDICARE ADVANTAGE,Medicare Advantage,LVHN only,10043,2552
+LVHN,PA Health & Wellness,MANAGED MEDICAID,Medicaid,LVHN only,5049,2014
+LVHN,PA Health & Wellness,MEDICARE ADVANTAGE,Medicare Advantage,LVHN only,10036,2543
+LVHN,Populytics,ALL PRODUCTS,Commercial,LVHN only,80,80
+LVHN,UPMC Health Plan,ALL PRODUCTS,Commercial,Both,10079,2588
+LVHN,UPMC Health Plan,MANAGED MEDICAID,Medicaid,Both,5309,2078
+LVHN,UPMC Health Plan,MEDICARE ADVANTAGE,Medicare Advantage,Both,10043,2552
+LVHN,UPMC Health Plan,SNP,Medicare Advantage,Both,10043,2552
+LVHN,UnitedHealthcare,BEHAVIORAL,Behavioral health,Both,0,0
+LVHN,UnitedHealthcare,CHIP,CHIP,Both,7849,1621
+LVHN,UnitedHealthcare,MANAGED MEDICAID,Medicaid,Both,8952,2302
+LVHN,Valley Preferred,ALL PRODUCTS,Commercial,LVHN only,10027,2529

@@ -1,0 +1,18 @@
+care_type,procedures_compared,slb_cheaper,lvh_cheaper,ties,slb_total,lvh_total,cheaper_in_total,lvh_vs_slb_total_pct,lvh_minus_slb_typical_dollar,lvh_vs_slb_typical_pct
+Imaging,376,216,117,43,109448.0,75991.0,LVHN,-30.6,2.0,2.5
+Lab & pathology,300,63,52,185,44983.0,28700.0,LVHN,-36.2,0.0,2.5
+Heart & vascular,128,48,75,5,209912.0,81201.0,LVHN,-61.3,-232.0,-30.6
+Other medical,117,47,51,19,155554.0,163565.0,St. Luke's,5.1,0.0,2.5
+Other surgery,110,93,15,2,41230.0,85283.0,St. Luke's,106.8,427.0,283.6
+Orthopedics,104,91,12,1,44918.0,70062.0,St. Luke's,56.0,275.0,72.6
+Digestive (GI),75,69,6,0,24596.0,53519.0,St. Luke's,117.6,401.0,182.5
+Neurology,73,57,10,6,15878.0,31382.0,St. Luke's,97.6,7.0,2.5
+Respiratory,31,16,10,5,12386.0,14654.0,St. Luke's,18.3,1.0,2.5
+Cancer care,30,19,10,1,14372.0,13291.0,LVHN,-7.5,2.0,2.5
+Urology & kidney,30,16,14,0,21636.0,16764.0,LVHN,-22.5,9.0,2.5
+Women's health,13,11,0,2,1950.0,6087.0,St. Luke's,212.1,415.0,326.6
+Emergency,9,5,4,0,1297.0,1084.0,LVHN,-16.4,29.0,81.3
+Clinic visits,9,8,1,0,613.0,647.0,St. Luke's,5.5,3.0,2.5
+Therapy & rehab,8,0,8,0,896.0,624.0,LVHN,-30.4,-36.0,-33.5
+Maternity & newborn,6,3,3,0,4588.0,4516.0,LVHN,-1.6,-12.0,0.3
+Behavioral health,3,1,2,0,160.0,185.0,St. Luke's,15.4,-14.0,-30.8

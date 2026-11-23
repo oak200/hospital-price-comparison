@@ -1,0 +1,15 @@
+grp,procedures,slb_plan_lowest_on,lvh_plan_lowest_on,slb_cash_lowest_on,lvh_cash_lowest_on,slb_plan_total,lvh_plan_total,slb_cash_total,lvh_cash_total
+Other surgery,50,43,9,0,0,16340.0,42128.0,127251.0,79968.0
+Lab & pathology,34,30,29,0,0,1230.0,1011.0,15559.0,4499.0
+Imaging,27,23,4,0,0,10953.0,10846.0,147313.0,51948.0
+Neurology,19,16,3,0,0,3588.0,13527.0,22661.0,26576.0
+Digestive (GI),18,16,2,0,0,8200.0,16782.0,66428.0,95248.0
+Orthopedics,17,12,5,0,0,8930.0,11662.0,47654.0,53594.0
+Urology & kidney,17,9,8,0,0,14871.0,9900.0,74946.0,90958.0
+Heart & vascular,14,9,5,0,0,10442.0,11822.0,61388.0,71490.0
+Other medical,11,11,2,0,0,20778.0,41237.0,103977.0,143633.0
+Clinic visits,9,8,1,0,0,613.0,647.0,4494.0,1675.0
+Respiratory,7,3,4,0,0,6080.0,5863.0,31853.0,28790.0
+Maternity & newborn,4,2,0,0,2,3036.0,3366.0,22239.0,2915.0
+Emergency,4,0,4,0,0,975.0,398.0,10349.0,5018.0
+Women's health,3,3,0,0,0,920.0,1906.0,5488.0,7263.0

@@ -1,0 +1,9 @@
+category,codes
+Listed by both hospitals,4350
+Listed by St. Luke's only,1727
+Listed by LVHN only,9106
+Listed but no price (either hospital),1
+Priced at both,4350
+  less drugs and supplies,-221
+  less outliers / non-comparable codes,-126
+Fairly compared,4003

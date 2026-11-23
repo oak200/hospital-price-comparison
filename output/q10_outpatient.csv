@@ -1,0 +1,11 @@
+code,procedure,care_type,slb_best_plan,lvh_best_plan,slb_cash,lvh_cash,lowest
+70450,"CT scan, head (no contrast)",Imaging,134.0,144.0,2616.0,,St. Luke's best plan
+74177,"CT scan, abdomen & pelvis (contrast)",Imaging,303.0,324.0,8785.0,,St. Luke's best plan
+72148,"MRI, lower back (no contrast)",Imaging,295.0,315.0,6378.0,,St. Luke's best plan
+77067,Screening mammogram,Imaging,126.0,129.0,687.0,,St. Luke's best plan
+76700,"Ultrasound, abdomen",Imaging,114.0,117.0,1964.0,,St. Luke's best plan
+80053,Comprehensive metabolic panel,Lab & pathology,14.0,14.0,159.0,40.0,St. Luke's best plan
+85025,Complete blood count (CBC),Lab & pathology,7.0,7.0,156.0,30.0,St. Luke's best plan
+45378,"Colonoscopy, diagnostic",Digestive (GI),217.0,545.0,,,St. Luke's best plan
+66984,Cataract removal with lens,Other surgery,723.0,1388.0,,4598.0,St. Luke's best plan
+29881,Knee arthroscopy (meniscectomy),Orthopedics,652.0,1146.0,,6225.0,St. Luke's best plan

@@ -1,0 +1,21 @@
+carrier,plan_type,slb_plans,lvh_plans,procedures_compared,slb_cheaper_on,lvh_cheaper_on,slb_total,lvh_total,cheaper_hospital,pct_cheaper,low_coverage
+Aetna,Commercial,Commercial,PEBTF / ALL PRODUCTS / ALL PRODUCTS / PEBTF,1729,1484,244,31721457.0,42971708.0,St. Luke's,26.0,false
+Aetna,Medicare Advantage,Medicare,MEDICARE ADVANTAGE,2546,1460,969,21834305.0,21359409.0,LVHN,2.0,false
+AmeriHealth Caritas,Medicaid,Medicaid,MANAGED MEDICAID,1015,746,241,177319.0,411317.0,St. Luke's,57.0,false
+Capital Blue Cross,Commercial,Commercial,ALL PRODUCTS,2593,770,1823,37549901.0,36348395.0,LVHN,3.0,false
+Cigna,Commercial,Commercial,PPO / HMO / HMO / PPO,214,73,141,3243755.0,3601410.0,St. Luke's,10.0,false
+Geisinger,Commercial,Commercial,ALL PRODUCTS,968,649,316,1409677.0,4059654.0,St. Luke's,65.0,false
+Geisinger,Medicaid,Medicaid/CHIP,MANAGED MEDICAID,1002,809,75,168752.0,317909.0,St. Luke's,47.0,false
+Geisinger,Medicare Advantage,Medicare,MEDICARE ADVANTAGE,2398,1377,872,21517852.0,20605914.0,LVHN,4.0,false
+Highmark,CHIP,CHIP,CHIP,2419,2343,75,19289011.0,33556418.0,St. Luke's,43.0,false
+Highmark,Commercial,Commercial,ALL PRODUCTS / TIERED PRODUCTS (COALITION) / TIERED PRODUCTS (COALITION) / ALL PRODUCTS,2418,1923,256,40182755.0,55357318.0,St. Luke's,27.0,false
+Highmark,Medicare Advantage,Medicare Advantage / Freedom Blue Medicare Advantage / Freedom Blue Medicare Advantage / Medicare Advantage,MEDICARE ADVANTAGE,2403,1402,858,21437597.0,20628376.0,LVHN,4.0,false
+Highmark Wholecare,Medicaid,Medicaid,MANAGED MEDICAID,1232,1013,192,444098.0,510854.0,St. Luke's,13.0,false
+Humana,Medicare Advantage,Medicare,MEDICARE ADVANTAGE,2403,1380,874,22184180.0,21235093.0,LVHN,4.0,false
+Independence Blue Cross,Commercial,PPO / HMO / PPO / HMO / PPO / HMO,HMO / PPO / HMO / PPO / PPO / HMO,1588,1339,187,6899670.0,8062607.0,St. Luke's,14.0,false
+Independence Blue Cross,Medicare Advantage,Medicare Advantage,MEDICARE ADVANTAGE,2501,1129,954,21363564.0,20244716.0,LVHN,5.0,false
+Jefferson Health Plans,Medicaid,CHIP/Medicaid,MANAGED MEDICAID,1091,327,671,232458.0,411341.0,St. Luke's,43.0,false
+Keystone First,Medicaid,Medicaid,MANAGED MEDICAID,975,950,19,147798.0,346892.0,St. Luke's,57.0,false
+UPMC Health Plan,Commercial,Commercial,ALL PRODUCTS,966,680,274,1374392.0,4310164.0,St. Luke's,68.0,false
+UPMC Health Plan,Medicaid,Medicaid,MANAGED MEDICAID,1020,989,27,185477.0,441663.0,St. Luke's,58.0,false
+UPMC Health Plan,Medicare Advantage,Medicare Advantage,SNP / MEDICARE ADVANTAGE / MEDICARE ADVANTAGE / SNP,2403,2247,107,22397488.0,23908247.0,St. Luke's,6.0,false

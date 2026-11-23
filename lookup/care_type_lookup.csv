@@ -1,0 +1,118 @@
+priority,code_system,code_from,code_to,care_type,notes
+1,CPT,99281,99285,Emergency,ER visit levels 1-5
+1,CPT,99291,99292,Emergency,Critical care
+1,CPT,99202,99215,Clinic visits,Office/outpatient visits new and established
+1,CPT,99241,99245,Clinic visits,Office consultations
+1,CPT,99460,99480,Maternity & newborn,Newborn and neonatal care
+1,CPT,77261,77799,Cancer care,Radiation oncology
+1,CPT,96401,96549,Cancer care,Chemotherapy administration
+1,CPT,90281,90749,Drugs,Immune globulins and vaccines
+1,CPT,90785,90899,Behavioral health,Psychiatry and psychotherapy
+1,CPT,90935,90999,Urology & kidney,Dialysis
+1,CPT,91010,91299,Digestive (GI),GI medicine
+1,CPT,92507,92508,Therapy & rehab,Speech therapy
+1,CPT,92920,93799,Heart & vascular,Cardiology procedures and tests
+1,CPT,93880,93998,Heart & vascular,Noninvasive vascular studies
+1,CPT,94002,94799,Respiratory,Pulmonary tests and treatment
+1,CPT,95700,96020,Neurology,EEG and neuro testing
+1,CPT,97010,97799,Therapy & rehab,Physical and occupational therapy
+2,CPT,00000,09999,Anesthesia,Anesthesia section
+2,CPT,10000,19999,Other surgery,Skin and breast
+2,CPT,20000,29999,Orthopedics,Musculoskeletal system
+2,CPT,30000,32999,Respiratory,Respiratory surgery
+2,CPT,33000,37799,Heart & vascular,Cardiovascular surgery
+2,CPT,37800,39999,Other surgery,Blood/lymphatic and mediastinum
+2,CPT,40000,49999,Digestive (GI),Digestive system surgery
+2,CPT,50000,55899,Urology & kidney,Urinary and male genital
+2,CPT,55900,58999,Women's health,Female genital (GYN)
+2,CPT,59000,59999,Maternity & newborn,Maternity care and delivery
+2,CPT,60000,60999,Other surgery,Endocrine
+2,CPT,61000,64999,Neurology,Nervous system surgery
+2,CPT,65000,69999,Other surgery,Eye and ear
+2,CPT,70000,79999,Imaging,Radiology / ultrasound / nuclear medicine
+2,CPT,80000,89999,Lab & pathology,Lab and pathology
+2,CPT,90000,99999,Other medical,Medicine and E/M not listed above
+1,CPT-suffix,U,U,Lab & pathology,Proprietary lab analyses (####U)
+1,CPT-suffix,A,A,Drugs,Vaccine administration (####A)
+1,CPT-suffix,M,M,Lab & pathology,Multianalyte assays (####M)
+1,CPT-suffix,T,T,Other medical,Category III emerging technology (####T)
+1,CPT-suffix,F,F,Other medical,Category II quality codes (####F)
+1,HCPCS,G0380,G0384,Emergency,ER visit levels 1-5 (Type B ED)
+1,HCPCS,G0463,G0463,Clinic visits,Hospital outpatient clinic visit
+1,HCPCS,A0000,A0999,Other medical,Ambulance
+2,HCPCS,A1000,B9999,Supplies & devices,Medical and enteral supplies
+2,HCPCS,C1000,C2999,Supplies & devices,Implants and devices
+2,HCPCS,C3000,C9999,Other medical,New technology (OPPS)
+2,HCPCS,E0000,E9999,Supplies & devices,Durable medical equipment
+2,HCPCS,G0000,G9999,Other medical,Temporary procedures and services
+2,HCPCS,H0000,H9999,Behavioral health,Behavioral health services
+2,HCPCS,J0000,J9999,Drugs,Drugs administered other than oral
+2,HCPCS,K0000,L9999,Supplies & devices,DME and orthotics/prosthetics
+2,HCPCS,M0000,M9999,Other medical,Other medical services
+2,HCPCS,P0000,P9999,Lab & pathology,Pathology and lab
+2,HCPCS,Q0000,Q9999,Drugs,Drugs biologics and contrast
+2,HCPCS,R0000,R9999,Imaging,Diagnostic radiology services
+2,HCPCS,S0000,T9999,Other medical,Private-payer and state codes
+2,HCPCS,U0000,U9999,Lab & pathology,Lab (COVID-19)
+2,HCPCS,V0000,V9999,Other medical,Vision and hearing
+2,MS-DRG,001,019,Other surgery,Transplants and tracheostomy
+2,MS-DRG,020,103,Neurology,Nervous system
+2,MS-DRG,113,139,Other surgery,Eye and ENT surgical
+2,MS-DRG,140,159,Other medical,Eye and ENT medical
+2,MS-DRG,163,208,Respiratory,Respiratory system
+2,MS-DRG,209,325,Heart & vascular,Circulatory system (incl. newer DRGs 209-213 and 317-325)
+2,MS-DRG,326,446,Digestive (GI),Digestive and hepatobiliary
+2,MS-DRG,447,566,Orthopedics,Musculoskeletal system (incl. spinal fusion DRGs 447-451)
+2,MS-DRG,570,585,Other surgery,Skin and breast surgical
+2,MS-DRG,592,607,Other medical,Skin and breast medical
+2,MS-DRG,614,630,Other surgery,Endocrine surgical
+2,MS-DRG,637,645,Other medical,Endocrine medical
+2,MS-DRG,650,730,Urology & kidney,Kidney urinary and male reproductive (incl. kidney transplant 650-651)
+2,MS-DRG,734,761,Women's health,Female reproductive
+2,MS-DRG,768,798,Maternity & newborn,Pregnancy delivery and newborns
+2,MS-DRG,799,804,Other surgery,Blood surgical
+2,MS-DRG,805,807,Maternity & newborn,Vaginal delivery
+2,MS-DRG,808,816,Other medical,Blood medical
+2,MS-DRG,817,819,Maternity & newborn,Antepartum with OR procedure
+2,MS-DRG,820,830,Cancer care,Lymphoma and myeloproliferative
+2,MS-DRG,831,833,Maternity & newborn,Antepartum
+2,MS-DRG,834,850,Cancer care,Leukemia and chemotherapy
+2,MS-DRG,853,872,Other medical,Infections
+2,MS-DRG,876,897,Behavioral health,Mental health and substance use
+2,MS-DRG,901,909,Other surgery,Injuries surgical
+2,MS-DRG,910,977,Other medical,Injuries burns trauma HIV other
+2,MS-DRG,981,989,Other surgery,OR procedure unrelated to diagnosis
+2,MS-DRG,998,999,Other medical,Ungroupable
+1,Revenue code,0981,0981,Emergency,Professional fees - ER
+2,Revenue code,0100,0219,Other medical,Room and board
+2,Revenue code,0250,0269,Drugs,Pharmacy and IV therapy
+2,Revenue code,0270,0279,Supplies & devices,Medical/surgical supplies
+2,Revenue code,0280,0289,Cancer care,Oncology
+2,Revenue code,0290,0299,Supplies & devices,DME
+2,Revenue code,0300,0319,Lab & pathology,Lab and pathology
+2,Revenue code,0320,0329,Imaging,Diagnostic radiology
+2,Revenue code,0330,0339,Cancer care,Therapeutic radiology
+2,Revenue code,0340,0359,Imaging,Nuclear medicine and CT
+2,Revenue code,0360,0369,Other surgery,Operating room
+2,Revenue code,0370,0379,Anesthesia,Anesthesia
+2,Revenue code,0380,0399,Lab & pathology,Blood and blood storage
+2,Revenue code,0400,0409,Imaging,Other imaging (incl. mammography/ultrasound)
+2,Revenue code,0410,0419,Respiratory,Respiratory services
+2,Revenue code,0420,0449,Therapy & rehab,PT OT and speech
+2,Revenue code,0450,0459,Emergency,Emergency room
+2,Revenue code,0460,0469,Respiratory,Pulmonary function
+2,Revenue code,0480,0489,Heart & vascular,Cardiology
+2,Revenue code,0490,0499,Other surgery,Ambulatory surgery
+2,Revenue code,0510,0529,Clinic visits,Clinic and free-standing clinic
+2,Revenue code,0610,0619,Imaging,MRI
+2,Revenue code,0630,0639,Drugs,Drugs requiring specific ID
+2,Revenue code,0710,0719,Other surgery,Recovery room
+2,Revenue code,0720,0729,Maternity & newborn,Labor room and delivery
+2,Revenue code,0730,0739,Heart & vascular,EKG/ECG
+2,Revenue code,0740,0749,Neurology,EEG
+2,Revenue code,0750,0759,Digestive (GI),GI services
+2,Revenue code,0760,0769,Other medical,Treatment and observation rooms
+2,Revenue code,0800,0889,Urology & kidney,Dialysis
+2,Revenue code,0900,0919,Behavioral health,Behavioral health
+2,Revenue code,0940,0949,Therapy & rehab,Other therapeutic services
+2,Revenue code,0960,0989,Other medical,Professional fees

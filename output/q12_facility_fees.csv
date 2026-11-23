@@ -1,0 +1,16 @@
+visit,level,code,slb_best_plan,slb_cash,lvh_best_plan,lvh_cash
+Clinic visit,1,99211,24.0,153.0,49.0,105.0
+Clinic visit,2,99212,31.0,181.0,49.0,105.0
+Clinic visit,3,99213,42.0,267.0,49.0,183.0
+Clinic visit,4,99214,65.0,444.0,67.0,218.0
+Clinic visit,5,99215,94.0,711.0,96.0,338.0
+ER visit,1,99281,75.0,486.0,,
+ER visit,2,99282,75.0,878.0,41.0,550.0
+ER visit,3,99283,300.0,1763.0,70.0,998.0
+ER visit,4,99284,300.0,3308.0,117.0,1455.0
+ER visit,5,99285,300.0,4401.0,171.0,2015.0
+ER visit (Type B),1,G0380,25.0,122.0,54.0,
+ER visit (Type B),2,G0381,40.0,198.0,73.0,
+ER visit (Type B),3,G0382,59.0,286.0,139.0,
+ER visit (Type B),4,G0383,86.0,420.0,175.0,
+ER visit (Type B),5,G0384,112.0,544.0,244.0,
